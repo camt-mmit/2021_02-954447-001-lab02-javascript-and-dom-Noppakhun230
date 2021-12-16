@@ -1,0 +1,4 @@
+button>*,
+.cl-adtion {
+    pointer-events: none;
+}
